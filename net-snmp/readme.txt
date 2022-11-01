@@ -1,0 +1,1 @@
+python 에서 snmp_cmds snmpwalk 사용하려면, 시스템에서 net-snmp 프로그램 ( net-snmp-5.5.1-1.x86.exe ) 이 설치되어 있어야 snmpwalk 기능을 사용할 수 있다.
